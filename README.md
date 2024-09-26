@@ -10,5 +10,5 @@ A template repository to publish games
 [Minigolf 9/23](minigolf_9_23/)
 
 ## Project 1
-[Demo CoinDash](Project1/P1demoPart1/index.html/)
-[Viking Voyage](Project1/VikingVoyage/index.html/)
+[Demo CoinDash](Project1/P1demoPart1/)
+[Viking Voyage](Project1/VikingVoyage/)
