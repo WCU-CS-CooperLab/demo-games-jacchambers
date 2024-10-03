@@ -8,7 +8,7 @@ A template repository to publish games
 [hud_scene_09_16](hud_scene_09_16/)
 [Project 1](Project1/)
 [Minigolf 9/23](minigolf_9_23/)
-[Jungle Jump 10/2](
+[Jungle Jump 10/2](JJ_export_10_2/)
 
 ## Project 1
 [Demo CoinDash](Project1/P1demoPart1/)
