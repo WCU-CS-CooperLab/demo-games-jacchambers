@@ -14,3 +14,6 @@ A template repository to publish games
 ## Project 1
 [Demo CoinDash](Project1/P1demoPart1/)
 [Viking Voyage](Project1/VikingVoyage/)
+
+## Project 2
+[Space Rocks](SpaceRocks/)
