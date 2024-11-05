@@ -18,3 +18,7 @@ A template repository to publish games
 ## Project 2
 [Space Rocks](SpaceRocks/)
 [Project 2](P2_export/)
+
+## Project 3
+[Infinite Flyer](Project3/Infinite_Fyer_exp/)
+[Project 3](Project3/P2_exp/)
