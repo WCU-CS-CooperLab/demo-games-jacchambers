@@ -1,0 +1,4 @@
+Group Project Writeup
+
+My responsibility with the assignment was originally level four, treasure chest, and title screen. However, this expanded to fixes some errors, ending screen, leaderboard, global.gd among other things.
+I had no problem with this, as I felt that everyone pulled their weight. Michael was especially helpful.
