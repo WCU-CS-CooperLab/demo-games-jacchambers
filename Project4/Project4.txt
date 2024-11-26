@@ -19,3 +19,5 @@ user3, test
 user4, test
 
 supports up to four separate players at any given time.
+
+In order to escape chat upon first entering the level, players will need to hit esc. After that, they can highlight the chat bar again by left clicking on the chat edit box.
