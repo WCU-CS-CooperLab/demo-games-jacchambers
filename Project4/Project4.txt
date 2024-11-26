@@ -1,0 +1,21 @@
+Base used: 08 online platformer game example
+
+changes made:
+- reworked the camera so that it follows each player (originally just stayed in one place)
+- added a chat for the lobby section
+- added a chat for the in game section
+- updated the map to make it more interesting and have multiple paths to the end
+
+check list:
+- players are able to perform actions while other players are performing actions
+- there is a chat feature in game
+
+How to play:
+use normal wasd controls, plays like a normal multiplayer platformer type game. camera will follow each player so that they can be on opposite sides of the map from each other at any given point in time. Goal is to get to the end of the level. there are multiple ways to reach the end of the level. server and client work the same way as a basic server and client set up: one player will host the server, and then both will log in using credentials.
+
+user1, test
+user2, test
+user3, test
+user4, test
+
+supports up to four separate players at any given time.
