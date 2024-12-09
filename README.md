@@ -30,4 +30,4 @@ A template repository to publish games
 [Project 4](Project4/OnlineGame/)
 
 ## Team Project 2
-[Windows](Team%20Project%202/Windows/Windows.zip)
+[Windows](Team%20Project%202/Windows.zip)
