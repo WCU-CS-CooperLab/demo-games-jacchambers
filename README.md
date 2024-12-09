@@ -31,3 +31,4 @@ A template repository to publish games
 
 ## Team Project 2
 [Windows](Team%20Project%202/Windows.zip)
+[Mac](Team%20Project%202/Mac/WastelandWarriors.zip)
