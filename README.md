@@ -12,7 +12,7 @@ A template repository to publish games
 [Jungle Jump Level1](level1_exp_10_4/)
 
 ## Project 1
-[Demo CoinDash](Project1/P1demoPart1/)
+[Demo CoinDash](Project1/P1demoPart1/export/)
 [Viking Voyage](Project1/VikingVoyage/)
 
 ## Project 2
